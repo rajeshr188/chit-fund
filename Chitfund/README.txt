@@ -1,1 +1,3 @@
-Built with django_builder
+yup ! Built with django_builder
+
+![Chit](static/images/home.png)
